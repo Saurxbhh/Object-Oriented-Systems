@@ -1,4 +1,4 @@
-  # Object-Oriented Java Systems
+# Object-Oriented Java Systems
 
 Practical, production-grade implementations showcasing core Object-Oriented Programming (OOP) paradigms, robust architectural clean design, and SOLID engineering design frameworks.
 
@@ -6,8 +6,10 @@ Practical, production-grade implementations showcasing core Object-Oriented Prog
 ```text
 ├── 01-Encapsulation/    # Safe data-hiding paradigms and domain data entities
 ├── 02-Inheritance/      # Hierarchical polymorphism configurations and code reuse models
-└── 03-Abstraction/      # Interface blueprints and structural system contracts
+├── 03-Abstraction/      # Interface blueprints and structural system contracts
+└── 04-Exception-Handling/ # Robust enterprise validation architectures and error controls
 ```
+
 ## 📊 OOP Paradigm Implementations
 
 Click on the track below to expand the full collection of production script files.
