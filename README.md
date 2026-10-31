@@ -8,7 +8,8 @@ Practical, production-grade implementations showcasing core Object-Oriented Prog
 ├── 02-Inheritance/      # Hierarchical polymorphism configurations and code reuse models
 ├── 03-Abstraction/      # Interface blueprints and structural system contracts
 ├── 04-Exception-Handling/ # Robust enterprise validation architectures and error controls
-└── 05-Design-Patterns/  # Advanced creational and structural enterprise coding models
+├── 05-Design-Patterns/  # Advanced creational and structural enterprise coding models
+└── 06-Generics-Concurrency/ # Thread-safe data pipes, generic buffers, and collection safety
 
 ```
 
@@ -27,6 +28,8 @@ Click on the track below to expand the full collection of production script file
 | Secure Processing Payment Pipeline | Abstraction & Interface Polymorphism | Decoupled Interface Routing, Multi-Behavior Execution Contracts | [📂 View Code](./03-Abstraction/PaymentGateway.java) |
 | Enterprise Robust Validation Engine | Robust Exception Architecture | Custom Exception Assertions, Resource Safety Guards | [📂 View Code](./04-Exception-Handling/ValidationEngine.java) |
 | Structural Factory Engine System    | Creational Design Patterns     | Dynamic Component Instantiation, Decoupled Creation | [📂 View Code](./05-Design-Patterns/FactoryPatternCore.java)   |
+| Thread-Safe Cache Registry Pipelines | Generics & Concurrency Safety  | Generic Parameter Tuning, Thread Synchronization    | [📂 View Code](./06-Generics-Concurrency/ConcurrentCache.java) |
+
 
 </details>
 
